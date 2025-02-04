@@ -16,3 +16,5 @@ A web application for managing a restaurant's menu, reservations, and customer i
 1. Clone the repository:
    ```bash
    git clone https://github.com/AkashReddypitta/Restaurant_project.git
+##  Final Ouput
+![Screenshot 2025-02-04 112152](https://github.com/user-attachments/assets/7225c91b-2680-4060-b47f-ccad47f52867)
